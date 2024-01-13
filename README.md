@@ -1,0 +1,1 @@
+I'm going through boot.dev to modernize my skills. Here's a repo to put projects and other things.
